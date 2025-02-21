@@ -3,8 +3,8 @@
 In order to use these operations, once you have downloaded the repository:
 1. Make sure you are in the correct directory in your terminal
 2. Input your desired matrix into the test.txt file ***(formatting below)***
-3. Use the Makefile by typing make <operation> (operation being rref, rotate, etc.)
-4. Once compiled, type in: ./<operation> test.txt
+3. Use the Makefile by typing make operation (operation being rref, rotate, etc.)
+4. Once compiled, type in: ./operation test.txt
 5. Your result should be printed out into the console.
 
 ## File Format
